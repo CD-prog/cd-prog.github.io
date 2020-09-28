@@ -3,6 +3,7 @@ import React from 'react'
 function About() {
   return (
     <>
+    <br/>
      <div className="text-white" style={{ fontWeight: "bolder", fontSize: "50px" }}>About me</div><br/><br/>
         <main className="row ">
         <div className="col-md-4 ">

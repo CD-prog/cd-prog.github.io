@@ -14,6 +14,7 @@ function App() {
     <Router>
 
       <div className="container-sm">
+      <br />
         <Navbar />
         <Route exact path="/" component={About} />
         <Route exact path="/portfolio" component={Portfolio} />
@@ -24,6 +25,7 @@ function App() {
         <br />
         <br />
         <Footer />
+        <br />
 
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
           integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
