@@ -6,7 +6,7 @@ export default () => {
 
     return(
         <nav className="navbar navbar-expand-md navbar-dark bg-dark">
-            <a className="navbar-brand text-monospace " style={{fontSize: '30px'}} href="index.html">Claudiu Diaconeasa</a>
+            <a className="navbar-brand text-monospace " style={{fontSize: '30px'}} href="/">Claudiu Diaconeasa</a>
             <div className="about-portfolio-contact">
                 <ul className="navbar-nav">
 
