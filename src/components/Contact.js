@@ -11,7 +11,7 @@ function Contact() {
             <br />
             <br />
             <br />
-            <><a href='https://www.linkedin.com/in/claudiu-diaconeasa/'><img src={require("../images/linkedin.png")} className="img-thumbnail border-dark img-fluid slide-in-top float-left" alt="MyFace" /></a></>
+            <><a href='https://www.linkedin.com/in/claudiu-diaconeasa/'><img src={require("../images/linkedin.jpg")} className="img-thumbnail border-dark img-fluid slide-in-top float-left" alt="MyFace" /></a></>
             <br />
             <br />
             <div className="card float-right text-center"
