@@ -1,6 +1,12 @@
 .col {
     margin: 15px;
-    height: 500px;
+    height: 600px;
+}
+.tech {
+    height:70px;
+}
+.card-text {
+    height:50px;
 }
 body {
 height: 100%;
